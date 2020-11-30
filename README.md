@@ -1,4 +1,4 @@
-<a href="https://twitter.com/iFlyinq/" target="blank"><img src="https://img.shields.io/twitter/follow/iFlyinq?logo=twitter&style=for-the-badge" alt="iFlyinq"/></a> 
+<a href="https://twitter.com/iFlyinqMC/" target="blank"><img src="https://img.shields.io/twitter/follow/iFlyinqMC?logo=twitter&style=for-the-badge" alt="iFlyinqMC"/></a> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=iflyinq" alt="iFlyinq visit count"/>
 
 ```java
