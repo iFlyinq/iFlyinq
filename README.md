@@ -29,5 +29,4 @@ public abstract class GitHubUser {
 }
 ```
 ![iFlyinq's github stats](https://github-readme-stats.vercel.app/api?username=iFlyinq&count_private=true&show_icons=true&theme=dark&hide_border=false) 
-![iFlyinq's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iFlyinq&theme=dark&count_private=true)
-
+![iFlyinq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iFlyinq&theme=dark&count_private=true)
