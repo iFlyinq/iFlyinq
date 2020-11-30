@@ -28,5 +28,19 @@ public abstract class GitHubUser {
   }
 }
 ```
-![iFlyinq's github stats](https://github-readme-stats.vercel.app/api?username=iFlyinq&count_private=true&show_icons=true&theme=dark&hide_border=false) 
-![iFlyinq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iFlyinq&theme=dark&count_private=true)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iFlyinq&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="github stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@iFlyinq&theme=dark&show_iconsk&count_private=true" alt="wakatime stats" height=195>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFlyinq&theme=dark&count_private=true" alt="top languages">
+    </td>
+  </tr>
+</table>
