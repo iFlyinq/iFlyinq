@@ -38,9 +38,4 @@ public abstract class GitHubUser {
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@iFlyinq&theme=dark&show_iconsk&count_private=true" alt="wakatime stats" height=195>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFlyinq&theme=dark&count_private=true" alt="top languages">
-    </td>
-  </tr>
 </table>
