@@ -23,9 +23,10 @@ public abstract class GitHubUser {
       this.country = country;
   }
 
-  public void addLanguage(String... language) {
-    languages.addAll(language);
+  public void addLanguage(String... languages) {
+    languages.addAll(languages);
   }
+  
 }
 ```
 
