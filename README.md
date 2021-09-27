@@ -7,7 +7,7 @@ public class iFlyinq extends GitHubUser {
   public iFlyinq() {
     super("iFlyinq", "Belgium");
 
-    this.addLanguage("Java", "C#", "Javascript", "SQL");
+    this.addLanguage("Java", "C#", "Javascript", "SQL", "PHP");
   }
 }
 
